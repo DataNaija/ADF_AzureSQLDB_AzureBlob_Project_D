@@ -6,6 +6,10 @@ We have data coming into the Azure SQL database from external sources, and we wa
 
 ![alt text](https://github.com/DataNaija/ADF_AzureSQLDB_Incremental_AzureBlob_Project_D/blob/main/lb9_0.png)
 
+# ADF Pipeline
+
 ![alt text](https://github.com/DataNaija/ADF_AzureSQLDB_Incremental_AzureBlob_Project_D/blob/main/lb9_1.png)
+
+# Azure Blob Storage
 
 ![alt text](https://github.com/DataNaija/ADF_AzureSQLDB_Incremental_AzureBlob_Project_D/blob/main/lb9_2.png)
